@@ -1,5 +1,3 @@
-site de única página mostrando alguns elementos como incorporar vídeos e mapas
-
 <h1>Museu Nacional</h1>
 
 <h2>Introdução</h2>
