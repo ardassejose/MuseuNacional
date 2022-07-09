@@ -10,7 +10,7 @@
   </ul>
 
 <pre>
-Obs1: Página está 100% responsiva
+Obs1: Responsividade em andamento;
 Obs2: Esta página será constantemente atualizada em caso de bugs.
 </pre>
 
@@ -20,4 +20,3 @@ Obs2: Esta página será constantemente atualizada em caso de bugs.
   <a href="https://www.linkedin.com/in/ardassejose"><p>💼 LinkedIn</p></a>
   <p>Let's Code 🚀</p>
 <footer>
-
